@@ -1,0 +1,6 @@
+{
+  "name": "3R RENHOLD AS | Profesjonelt Renhold i Norge",
+  "description": "Offentlig godkjent renholdsbedrift 3R RENHOLD AS (Org.nr 825 259 082). Profesjonelt renhold for bedrifter og private i Norge. Kvalitet, trygghet og pålitelighet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
